@@ -223,7 +223,8 @@ Visualisasi Boxplot:
    - Whisker atau garis lurus yang terhubung dengan kotak menunjukkan rentang data yang dianggap tidak sebagai outlier.
    - Titik-titik di luar whisker menunjukkan adanya outlier.
 
-![outliers_boxplot](https://github.com/pryln/Machine-Learning-Terapan/assets/42314371/994b7ef1-fe6d-4bc4-94a5-5800322fe11f)
+![outliers_boxplot](https://github.com/user-attachments/assets/d260a613-8d69-46a4-adc0-4f8cc204c560)
+
 
 ###### Gambar 6.1 Visualisasi outliers menggunakan boxplot
 
@@ -259,11 +260,11 @@ Histogram membantu kita memahami pola dan sebaran data dengan cepat. Analisis se
 
 Hal ini dapat menjadi langkah awal dalam eksplorasi data sebelum melakukan analisis lebih lanjut atau membangun model prediksi.
 
-![histogram](https://github.com/pryln/Machine-Learning-Terapan/assets/42314371/88d5ec99-beca-4d6f-a34d-a95921c4fe79)
+![histogram](https://github.com/user-attachments/assets/285056ed-e8c6-49a6-b05c-076bc0a49a31)
 
 ###### Gambar 6.2 Sebaran dataset
 
-![pairplot](https://github.com/pryln/Machine-Learning-Terapan/assets/42314371/ab84ebd0-4fe9-4436-9439-359c83ee7eb3)
+![pairplot](https://github.com/user-attachments/assets/09ae51b5-e635-4506-8296-e3bfcaf9bbdf)
 
 ###### Gambar 6.2 Korelasi PremiumPrice dengan fitur lainnya
 
@@ -275,7 +276,8 @@ Kita dapat melihat hubungan positif atau negatif antara fitur numerik dan fitur 
 
 Dengan menggunakan correlation matrix dan visualisasi heatmap, kita dapat dengan mudah menganalisa keterkaitan antara fitur numerik dan fitur kategori dalam dataset secara visual dan kuantitatif.
 
-![correlation_matrix](https://github.com/pryln/Machine-Learning-Terapan/assets/42314371/9b8346a0-2cab-4184-be8a-789a447e7f6d)
+![correlation_matrix](https://github.com/user-attachments/assets/de19fc6d-cdd0-433a-b6d8-575aba805f47)
+
 
 ###### Gambar 6.3 Matriks korelasi PremiumPrice
 
@@ -400,7 +402,8 @@ Tabel 9.1 Tabel hasil running evaluasi model setelah menggunakan _hyperparameter
 
 Berikut adalah grafik hasil evaluasi model setelah dilakukan penerapan _hyperparameter_.
 
-![model_eval_hy_params](https://github.com/pryln/Machine-Learning-Terapan/assets/42314371/d374d1d7-fcc2-4afb-9745-a221cacb2453)
+![model_eval_hy_params](https://github.com/user-attachments/assets/74f37c9d-3905-4f9d-b444-2335e00e844f)
+
 
 ###### Gambar 9.1 Hasil evaluasi model setelah penerapan _hyperparameter_
 
